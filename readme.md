@@ -1,6 +1,6 @@
 # Usage
 
-##Command
+## Command
 ```
 node sign.js [JSON] [Secret]
 ```
